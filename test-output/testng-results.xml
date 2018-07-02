@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="75364" started-at="2018-01-27T14:14:22Z" finished-at="2018-01-27T14:15:37Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="75364" started-at="2018-01-27T14:14:22Z" finished-at="2018-01-27T14:15:37Z">
+      <class name="com.FreeCRM.tests.HomePageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.FreeCRM.tests.HomePageTest@1fb6037]" name="setup" is-config="true" duration-ms="38753" started-at="2018-01-27T19:44:22Z" finished-at="2018-01-27T19:45:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="validateLogoText()[pri:0, instance:com.FreeCRM.tests.HomePageTest@1fb6037]" name="validateLogoText" duration-ms="2065" started-at="2018-01-27T19:45:01Z" finished-at="2018-01-27T19:45:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLogoText -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.FreeCRM.tests.HomePageTest@1fb6037]" name="tearDown" is-config="true" duration-ms="1074" started-at="2018-01-27T19:45:03Z" finished-at="2018-01-27T19:45:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.FreeCRM.tests.HomePageTest@1fb6037]" name="setup" is-config="true" duration-ms="31605" started-at="2018-01-27T19:45:04Z" finished-at="2018-01-27T19:45:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="validateUserNameTest()[pri:0, instance:com.FreeCRM.tests.HomePageTest@1fb6037]" name="validateUserNameTest" duration-ms="841" started-at="2018-01-27T19:45:36Z" finished-at="2018-01-27T19:45:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateUserNameTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.FreeCRM.tests.HomePageTest@1fb6037]" name="tearDown" is-config="true" duration-ms="958" started-at="2018-01-27T19:45:36Z" finished-at="2018-01-27T19:45:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.FreeCRM.tests.HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="FreeCRM regression" verbose="4" >
+ 	
+ 	 <listeners>
+  			<listener class-name="com.FreeCRM.ExtentReport.ExtentReporteListener" />
+ 	 </listeners>
+ 
+  <test name="FreeCRM">
+
+     <classes>
+       <class name="com.FreeCRM.tests.HomePageTest"/>
+   <!--<class name="com.FreeCRM.tests.LoginPageTest"/>
+       <class name="com.actitime.testcases.ProjectsAndCustomersPageTest"/>
+      <class name="com.actitime.testcases.AddNewCustomerPageTest"/>
+        -->
+    </classes>
+    
+ </test>
+</suite>
